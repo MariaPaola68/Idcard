@@ -1,0 +1,16 @@
+body{ background-color:rgb(138, 146, 230), margin 0 ; padding: 0; width: 100%;}
+
+.container { background-color: rgb(138, 146, 230);
+padding-top: 3%;  padding-bottom: 3%;}
+
+.container .row {align-items: center; padding-left: 40%;}
+
+
+.card { border: radius 5%;;}
+
+.card-title{  text-align: center; 
+font-weight: bold;}
+
+.card-text{ text-align: center;}
+
+.btn-btn-primary {font-weight: bold;}
